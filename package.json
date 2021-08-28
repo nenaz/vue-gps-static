@@ -1,0 +1,10 @@
+{
+  "name": "vue-gps-static",
+  "version": "1.0.0",
+  "description": "Heroku App",
+  "author": "mrnenaz",
+  "private": false,
+  "scripts": {
+    "postinstall": "npm install express"
+  }
+}
